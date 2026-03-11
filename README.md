@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bibek Jena</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Django+%7C+Laravel+Developer;REST+API+Developer;Building+Scalable+Web+Applications&center=true&width=550&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Django+%7C+Laravel+Developer;REST+API+Developer;Cloud+Deployment+Engineer&center=true&width=600&height=50">
 </p>
 
 <p align="center">
@@ -14,20 +14,21 @@
 
 # 👨‍💻 About Me
 
-* 💼 Full Stack Web Developer  
-* 🧠 Specialized in **Backend System Development**
-* 🐍 Backend development with **Django, Django REST Framework**
-* 🐘 PHP development using **Laravel**
-* 🔐 Experience implementing **JWT Authentication & API Security**
-* 🗄️ Database design with **PostgreSQL, MySQL, SQL Server**
-* ☁️ Cloud deployment using **AWS EC2**
-* 🐧 Experienced with **Linux server management**
-* 🔗 Building scalable **REST APIs and backend systems**
-* 🚀 Interested in **system design, scalable architectures and automation**
+💼 **Full Stack Web Developer**
+
+- Backend development with **Django & Django REST Framework**
+- PHP backend development using **Laravel**
+- Strong experience building **RESTful APIs**
+- Implemented **JWT Authentication & API Security**
+- Database design and optimization using **PostgreSQL, MySQL, SQL Server**
+- Deployment and server configuration on **AWS EC2**
+- Linux server management and troubleshooting
+- Experience developing **CRM dashboards and business systems**
+- Interested in **scalable architectures, system design and automation**
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Technical Skills
 
 ## 💻 Programming Languages
 
@@ -38,6 +39,8 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AJAX-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
 
 </p>
 
@@ -48,10 +51,14 @@
 <p>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django ORM-092E20?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Django REST Framework-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django Authentication-092E20?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST API-005571?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT Authentication-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API Integration-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT Authentication-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Token Authentication-black?style=for-the-badge"/>
 
 </p>
 
@@ -75,8 +82,9 @@
 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Database Design-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database Optimization-336791?style=for-the-badge"/>
 
 </p>
 
@@ -90,6 +98,7 @@
 <img src="https://img.shields.io/badge/Linux Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/API Deployment-005571?style=for-the-badge"/>
 
 </p>
@@ -101,9 +110,12 @@
 <p>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git Workflow-F05032?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 
 </p>
 
@@ -111,11 +123,11 @@
 
 # 📂 Projects
 
-## 🚗 SafeInjury Bike Rental System
+### 🚗 SafeInjury Bike Rental System
 
-Multi-city bike rental platform built using Django.
+Multi-city vehicle rental platform.
 
-Features
+**Features**
 
 - City-based URL routing  
 - Vehicle booking system  
@@ -124,40 +136,39 @@ Features
 
 ---
 
-## 💊 PixiDrugs Pharmaceutical Platform
+### 💊 PixiDrugs Pharmaceutical Platform
 
-Web application for pharmaceutical product management.
+Pharmaceutical product management system.
 
-Features
+**Features**
 
 - Product catalog management  
-- Product data system  
-- API-based backend  
+- API-based backend architecture  
+- Data management system  
 
 ---
 
-## ⚙️ PixiFlow CRM Dashboard
+### ⚙️ PixiFlow CRM Dashboard
 
-CRM management system.
+CRM dashboard system.
 
-Features
+**Features**
 
 - Lead management  
 - User management  
-- Admin dashboard  
-- Reporting system  
+- Admin reporting dashboard  
 
 ---
 
-## 🏥 GovindaFamily Healthcare Platform
+### 🏥 GovindaFamily Healthcare Platform
 
-Healthcare system for family medical records.
+Healthcare management platform.
 
-Features
+**Features**
 
 - Health record management  
 - Medical history tracking  
-- Secure data storage  
+- Secure data handling  
 
 ---
 
@@ -165,7 +176,7 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibekjena789&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bibekjena789&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekjena789&layout=compact&theme=tokyonight"/>
 
