@@ -181,12 +181,6 @@ Family healthcare management system.
 </p>
 
 ---
-<h2 tabindex="-1" id="js-contribution-activity-description" class="f4 text-normal mb-2">
-      536
-      contributions
-        in the last year
-    </h2>
-# 🔥 GitHub Streak
 
 <p align="center">
 
