@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bibek Jena</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Django+%7C+Laravel+Developer;API+Developer;Building+Scalable+Web+Applications&center=true&width=550&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Backend+Engineer;Django+%7C+Laravel+Developer;REST+API+Developer;Building+Scalable+Web+Applications&center=true&width=550&height=50">
 </p>
 
 <p align="center">
 <a href="https://github.com/bibekjena789">
-<img src="https://komarev.com/ghpvc/?username=bibekjena789&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=bibekjena789&label=Profile%20views&color=0e75b6&style=flat"/>
 </a>
 </p>
 
@@ -15,14 +15,15 @@
 # 👨‍💻 About Me
 
 * 💼 Full Stack Web Developer  
-* 🌐 Experience in **Web Application Development**
-* 🐍 Backend development with **Django & Django REST Framework**
-* 🐘 PHP development using **Laravel Framework**
-* 🗄️ Database experience with **PostgreSQL, MySQL, SQL Server**
-* ☁️ Deploying applications on **AWS EC2**
-* 🐧 Comfortable working with **Linux Servers**
-* 🔗 Building **REST APIs and scalable backend systems**
-* 🚀 Interested in **system design, automation, and scalable architectures**
+* 🧠 Specialized in **Backend System Development**
+* 🐍 Backend development with **Django, Django REST Framework**
+* 🐘 PHP development using **Laravel**
+* 🔐 Experience implementing **JWT Authentication & API Security**
+* 🗄️ Database design with **PostgreSQL, MySQL, SQL Server**
+* ☁️ Cloud deployment using **AWS EC2**
+* 🐧 Experienced with **Linux server management**
+* 🔗 Building scalable **REST APIs and backend systems**
+* 🚀 Interested in **system design, scalable architectures and automation**
 
 ---
 
@@ -42,25 +43,27 @@
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend Frameworks & API Development
 
 <p>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django REST-ff1709?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Django REST Framework-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT Authentication-black?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🌐 Frontend Development
+## 🌐 Frontend Technologies
 
 <p>
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive Design-0A66C2?style=for-the-badge"/>
 
 </p>
 
@@ -73,24 +76,27 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database Design-336791?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud, Deployment & DevOps
 
 <p>
 
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux Server-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API Deployment-005571?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🧰 Tools
+## 🧰 Development Tools
 
 <p>
 
@@ -193,7 +199,7 @@ Features
 https://linkedin.com/in/bibek-jena-024bba2a3  
 
 📧 Email  
-bibekjena7709@gmail.com  
+bibekjena789@gmail.com  
 
 💻 GitHub  
 https://github.com/bibekjena789  
