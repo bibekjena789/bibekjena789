@@ -170,35 +170,6 @@ Family healthcare management system.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bibekjena789&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekjena789&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekjena789&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bibekjena789&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 🔗 Connect With Me
 
