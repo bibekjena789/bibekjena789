@@ -119,20 +119,6 @@
 
 ---
 
-# 📂 Projects
-
-### 🚗 SafeInjury Bike Rental System
-
-Multi-city vehicle rental platform built with Django.
-
-**Features**
-
-- City-based routing system  
-- Vehicle booking workflow  
-- Admin management dashboard  
-- REST API backend architecture  
-
----
 
 ### 💊 PixiDrugs Pharmaceutical Platform
 
@@ -155,18 +141,6 @@ Business CRM dashboard.
 - Lead management system  
 - User role management  
 - Analytics and reporting dashboard  
-
----
-
-### 🏥 GovindaFamily Healthcare Platform
-
-Family healthcare management system.
-
-**Features**
-
-- Medical record tracking  
-- Health history management  
-- Secure data handling  
 
 ---
 
